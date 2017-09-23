@@ -1,1 +1,2 @@
 # projet
+Auteur: Theo Cherel
