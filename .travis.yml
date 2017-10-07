@@ -5,4 +5,5 @@ deploy:
   provider: heroku
   api_key:58d031e8-f75e-46ca-856e-e26af778c64e
     secure: "YOUR ENCRYPTED API KEY"
-  app: my-app-123
+  app: lpa2theo
+
