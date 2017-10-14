@@ -8,3 +8,4 @@ deploy:
   app: lpa2theo
   on:
     repo: Theoche/projet
+  run: "rake db:migrate"
